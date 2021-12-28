@@ -11,3 +11,4 @@ src = "src/bin/day1.rs"
 
 
 [dependencies]
+grid = "0.6.0"
